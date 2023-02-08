@@ -1,6 +1,23 @@
 body{
 
-    color: rgb(60, 119, 26);
+    color: rgb(83, 83, 83);
     text-align: center;
     font-family: "Helvetica";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0px auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
